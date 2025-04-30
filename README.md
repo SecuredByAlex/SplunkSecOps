@@ -58,7 +58,7 @@ Marketing department
 
 Q1. How many logs are ingested from the month of March, 2022?<br>
 Ans : 13,959<br>
-O/P: <img src="https://github.com/user-attachments/assets/140c1ad7-ce32-49dc-9acb-2b98d6106d38" /> <br><br>`
+O/P: <img src="https://github.com/user-attachments/assets/50fb768c-bbcc-46cf-9c1e-3444abaf8767" /> <br><br>`
 
 Q2. Imposter Alert: There seems to be an imposter account observed in the logs, what is the name of that user?<br>
 Ans : Amel1a<br>
